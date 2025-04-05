@@ -4,8 +4,8 @@
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://x.com/payu_210" target="blank"><img
-            src="https://img.shields.io/twitter/follow/Nishant85111121?logo=twitter&style=for-the-badge"
-            alt="Nishant85111121" /></a> </p>
+            src="https://img.shields.io/twitter/follow/payu_210?logo=twitter&style=for-the-badge"
+            alt="payu_210" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payu591&label=Profile%20views&color=0e75b6&style=flat"
         alt="payu591" /> </p>
 
